@@ -1,0 +1,13 @@
+Data are from a study to compare the quality of services provided by two physician groups for asthma patients in CA. 
+
+Pg = physician group (treatment)
+age
+Sex
+Educ = education
+Insu = insurance status
+Drug = drug coverage
+Severity = asthma severity
+Com = comorbidities total number
+Pcs = standard physical comorbidity scale
+Mcd = mental comorbidity scale
+Aqoc = patient satisfaction on asthma quality of care (outcome)
