@@ -1,0 +1,11 @@
+/SER_2021/
+/RUHR/
+*.bib
+*.log
+*.pptx
+.Rproj.user
+*.Rproj
+/figures/
+/misc/
+*.Rmd
+*.log
