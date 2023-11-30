@@ -9,3 +9,11 @@
 /misc/
 *.Rmd
 *.log
+*.toc
+*.aux
+
+1.\ Module1/ml.pdf
+5.\ Module5/data_gen.R
+5.\ Module5/ltmle_test.R
+data/longitudinal.csv
+longitudinal.csv
